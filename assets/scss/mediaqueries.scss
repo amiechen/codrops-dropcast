@@ -54,6 +54,8 @@
   .main {
     display: flex;
     padding-left: 60px;
+    max-width: 1500px;
+    flex-grow: 1;
   }
   #site__bg {
     position: absolute;
