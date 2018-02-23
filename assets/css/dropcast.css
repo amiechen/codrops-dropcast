@@ -69,8 +69,7 @@ nav {
   position: relative;
   background: #F7F7F6;
   box-shadow: 5px 2px 20px 0 rgba(0, 0, 0, 0.1);
-  display: flex;
-  flex: 1; }
+  display: flex; }
   nav > * {
     width: 50%; }
 
@@ -406,7 +405,6 @@ nav {
   .main {
     display: flex;
     padding-left: 60px;
-    max-width: 1500px;
     flex-grow: 1; }
 
   #site__bg {
@@ -534,7 +532,16 @@ nav {
     margin-right: 5rem;
     border-radius: 4px; } }
 @media only screen and (min-width: 1400px) {
+  .main {
+    align-self: center; }
+
+  .right .site__secondary_title {
+    max-width: 900px;
+    margin: 2rem auto 0 auto; } }
+@media only screen and (min-width: 2000px) {
   .right .site__description {
-    column-count: 2; } }
+    max-width: 900px;
+    margin: 0rem auto auto auto;
+    column-count: 3; } }
 
 /*# sourceMappingURL=dropcast.css.map */
