@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="74px" height="74px" viewBox="0 0 74 74" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>logo</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <filter x="-25.9%" y="-22.3%" width="151.8%" height="151.8%" filterUnits="objectBoundingBox" id="filter-1">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="4.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.142974411 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+    </defs>
+    <g id="Mobile" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-12.000000, -17.000000)">
+        <g id="nav">
+            <g id="logo" filter="url(#filter-1)" transform="translate(21.000000, 24.000000)">
+                <circle id="Oval-2" fill="#7CCDB9" cx="28" cy="28" r="28"></circle>
+                <path d="M19.9224352,35.6715286 C18.193294,34.8228577 17,33.0535457 17,31.0065733 C17,28.1338163 22.2242939,19.9827752 22.2242939,19.9827752 C22.2242939,19.9827752 22.6062983,20.5807024 23.1615205,21.5030707 C25.4481973,25.7795317 26.871388,29.3738605 26.871388,30.8810575 C26.871388,33.807648 24.6957556,36.190001 22.0204232,36.190001 C21.295598,36.190001 20.5927503,36.0106516 19.9267728,35.6628922 L19.9224352,35.6715286 Z M28.3036877,42 C25.0275876,42 22.1856886,40.1900969 20.7056744,37.5247577 C21.1353932,37.6237885 21.5734983,37.680213 22.0205678,37.680213 C25.5223716,37.680213 28.3667286,34.6304097 28.3667286,30.8812014 C28.3667286,28.4579695 25.8997491,23.4859898 24.6523789,21.1232127 C26.570498,17.7063622 28.3038323,15 28.3038323,15 C28.3038323,15 37,28.5616064 37,33.341426 C36.9995662,38.1208137 33.1072273,42 28.3036877,42 Z" id="Shape" fill="#F7F7F6" fill-rule="nonzero"></path>
+            </g>
+        </g>
+    </g>
+</svg>
