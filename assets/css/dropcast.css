@@ -120,6 +120,10 @@ nav {
   font-size: 3rem;
   margin-bottom: 1rem;
   position: relative; }
+  .site__title a {
+    color: white; }
+    .site__title a:hover {
+      text-decoration: none; }
   .site__title.site__title--separator:after {
     position: absolute;
     border-bottom: 3px solid #F79E77;
