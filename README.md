@@ -1,6 +1,10 @@
 # Dropcast - a responsive HTML template for podcasts or blogs
 
+![Scribbler Screenshot](./screenshot.jpg)
+
 Dropcast is a responsive HTML/CSS/Javascript template, comes with Sketch files (for both mobile and desktop versions) and a fully working site. It works very well for podcast landing pages or blogs, and can be easily customized.
+
+Check out the details on [Codrops](https://tympanus.net/codrops/2018/02/23/freebie-dropcast-website-template-html-sketch/)
 
 ## Live Demo
 🥁 [Dropcast Live Demo](https://tympanus.net/Freebies/dropcast/)
