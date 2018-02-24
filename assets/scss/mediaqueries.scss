@@ -215,12 +215,28 @@
   }
 }
 
-@media only screen and (min-width : 2000px) {
+@media only screen and (min-width : 1600px) {
+  .left {
+    padding-left: 0;
+    padding-top: 0;
+    align-items: center;
+    justify-content: center;
+    .site__title--separator:after {
+      position: relative;
+      margin: 0 auto;
+    }
+    .site__label {
+      margin-bottom: 3rem;
+    }
+  }
   .right {
     .site__description {
-      max-width: 900px;
+      max-width: 60%;
       margin: 0rem auto auto auto;
       column-count: 3;
+    }
+    .site__playbar {
+      margin: 5rem 10% 0 10%;
     }
   }
 }
