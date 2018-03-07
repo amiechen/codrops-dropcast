@@ -18,7 +18,7 @@ First make sure you have [Sass](https://sass-lang.com/) installed, then `cd` to 
 *   [Google Fonts - Rufina](https://fonts.google.com/specimen/Rufina)
 *   [Google Fonts - Source Sans Pro](https://fonts.google.com/specimen/Source+Sans+Pro)
 *   [Font Awesome v4](http://fontawesome.io/)
-*   [Music](http://freemusicarchive.org/music/Comfort_Fit/) for example.mp3
+*   [Music by Comfort Fit](http://freemusicarchive.org/music/Comfort_Fit/) for example.mp3
 
 ## License
 Use it freely but please do not republish, distribute or sell "as-is". [Read more about our license.](http://tympanus.net/codrops/licensing/)
